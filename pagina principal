@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <title>Restaurante Menegazzo</title>
+<head>
+<meta charset="UTF-8">
+<title><strong>Restaurante Menegazzo</strong></title>
+</head>  
+<body>
 
 <h1>Sobre nosso restaurante Menegazzo</h1>
 
-<p1>Localizado no centro da cidade de São Paulo nosso restaurante serve os clientes com saborosas comidas típicas italianas desde 1983.  Legado de Francesco Bernoulli Menegazzo passou suas receitas e técnicas para as próximas gerações da família e até hoje servimos o melhor da culinária italina com muita paixão e dedicação.</p1>
-  Contamos com
+    <p>Localizado no centro da cidade de São Paulo nosso restaurante serve os clientes com saborosas comidas típicas italianas desde 1983.  
+Legado de <em>Francesco Bernoulli</em> Menegazzo passou suas receitas e técnicas para as próximas gerações da família e até hoje servimos o melhor da culinária italina com muita paixão e dedicação.</p>
+    <p>Contamos com um cardápio digital para  facilitar os pedidos e garantir que fiquem prontos o mais rápido possível. Além de um pequeno espaço de recriação para criaças,e algunas fliperamas.</p> 
 
-  Cardapio:
+    <p style="font-size: 20px!"><strong>Cardapio:</strong></p>
 
-Pratos Principais 
+    <p style="font-size: 15px!">Pratos Principais</p> 
+
 - Pizzas de vários sabores 
 -Ravioli
 -Spaghetti
@@ -24,7 +28,8 @@ Pratos Principais
 -Olive Ascolane 
 -Piadina Romagnola 
 
-Sobremesas 
+   <p style="font-size: 15px!">Sobremesas</p>
+
 -Gellato 
 -Struffoli 
 -Cannolo 
@@ -32,5 +37,6 @@ Sobremesas
 -Zeppole
 -Torrone 
 -Bomboloni
+</body>
 
- 
+</html>
